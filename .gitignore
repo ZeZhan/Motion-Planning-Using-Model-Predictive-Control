@@ -1,0 +1,13 @@
+# ignore dir
+
+/Archive
+/.idea
+/test/FORCESNLPsolver
+/test/Archive_Results
+/MPC_Planner/__pycache__
+/MPC_Planner/.idea
+
+# ignore file
+*.log
+*.forces
+/MPC_Planner/comment_tool.sh
