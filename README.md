@@ -1,4 +1,4 @@
-# Practical Course MPFAV WS21: Motion Planning Using Model Predictive Control within the CommonRoad Framework
+# Motion Planning Using Model Predictive Control within the CommonRoad Framework
 ## Description of repository
 This repository is motion planning of autonomous driving using Model Predictive Control (MPC) based on [CommonRoad Framework](https://commonroad.in.tum.de/). We develop the algorithm with two tools, i.e., CasADi (IPOPT solver) and Forcespro (SQP solver), to solve the optimization problem. Finally, we used two use cases to evaluate our algorithms, i.e. lane following and collision avoidance.
 
